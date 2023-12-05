@@ -5,7 +5,7 @@
 @section('konten')
     <div class="container">
         <br>
-        <h1 class="text-center">Halaman Books</h1>
+        <h1 class="text-center">Halaman Books 1</h1>
         <hr>
         
 
